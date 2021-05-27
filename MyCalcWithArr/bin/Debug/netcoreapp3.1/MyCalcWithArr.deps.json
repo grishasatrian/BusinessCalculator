@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyCalcWithArr/1.0.0": {
+        "runtime": {
+          "MyCalcWithArr.dll": {}
+        },
+        "resources": {
+          "en-001/MyCalcWithArr.resources.dll": {
+            "locale": "en-001"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyCalcWithArr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
