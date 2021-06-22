@@ -235,7 +235,7 @@
     <value>7</value>
   </data>
   <data name="button3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>122, 271</value>
+    <value>122, 264</value>
   </data>
   <data name="button3.Size" type="System.Drawing.Size, System.Drawing.Primitives">
     <value>146, 28</value>
@@ -2640,6 +2640,12 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
 </value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>408, 343</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>408, 343</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
