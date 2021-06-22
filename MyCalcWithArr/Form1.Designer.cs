@@ -139,7 +139,6 @@ namespace MyCalcWithArr
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ControlBox = false;
             this.Controls.Add(this.btnClearHistory);
             this.Controls.Add(this.btnHistory);
             this.Controls.Add(this.historyList);
